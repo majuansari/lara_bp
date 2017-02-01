@@ -17,3 +17,7 @@ bootstrap/cache/
 # mpeltonen/sbt-idea plugin
 .idea_modules/
 
+### macOS ###
+*.DS_Store
+.AppleDouble
+.LSOverride
